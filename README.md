@@ -109,6 +109,16 @@ Here are some valuable resources and repositories for implementing OCR solutions
 - [FaceOnLive AI Research](https://gitlab.com/faceonlive/ai-research): GitLab repository for various AI research, including OCR.
 - [NAF-DPM](https://github.com/ispamm/naf-dpm) by ISPA-MM: An advanced framework for document and image processing, including OCR.
 
+## Implemented Papers
+
+Here are some key papers that have been implemented in the OCR field, along with their links:
+
+- [An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition](https://arxiv.org/pdf/1507.05717v1)
+- [EAST: An Efficient and Accurate Scene Text Detector](https://arxiv.org/pdf/1704.03155v2)
+- [Shape Robust Text Detection with Progressive Scale Expansion Network](https://arxiv.org/pdf/1903.12473v2)
+- [PP-OCR: A Practical Ultra Lightweight OCR System](https://arxiv.org/pdf/2009.09941v3)
+
+
 ## Additional Reading
 
 - [What is OCR? The Ultimate Guide to OCR 2024](https://www.klippa.com/en/blog/information/what-is-ocr/)
