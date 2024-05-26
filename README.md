@@ -77,3 +77,15 @@ Provides a comprehensive solution for automating document processing workflows, 
 ---
 
 Explore how OCR can add value to your business by automating document processing and improving efficiency. Start integrating OCR technology today to take advantage of its many benefits.
+
+- [Receipt OCR for Loyalty Programs](https://www.klippa.com/en/ocr/financial-documents/receipts/)
+- [Automated Invoice Processing for Accounts Payable](https://www.klippa.com/en/ocr/financial-documents/invoices/)
+- [Automated Purchase Order Processing](https://www.klippa.com/en/ocr/financial-documents/purchase-orders/)
+- [Automated Passport Processing](https://www.klippa.com/en/ocr/identity-documents/passports/)
+- [Automated Driving License Processing](https://www.klippa.com/en/ocr/identity-documents/driving-licenses/)
+- [Automated ID Card Processing](https://www.klippa.com/en/ocr/identity-documents/id-cards/)
+
+
+
+
+
