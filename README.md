@@ -88,4 +88,8 @@ Explore how OCR can add value to your business by automating document processing
 
 
 
+For a comprehensive guide on OCR, please visit [What is OCR? The Ultimate Guide to OCR 2024](https://www.klippa.com/en/blog/information/what-is-ocr/).
+
+*Credit: [Klippa OCR](https://www.klippa.com/en/blog/information/what-is-ocr/)*
+
 
