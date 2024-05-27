@@ -90,9 +90,7 @@ Explore how OCR can add value to your business by automating document processing
 
 # Optical Character Recognition (OCR) Resources
 
-## Introduction
 
-Optical Character Recognition (OCR) is a transformative technology that automates data extraction from images and scanned documents. OCR is widely used across industries like banking, retail, travel, legal, and healthcare to reduce manual processes and improve efficiency. This guide covers everything you need to know about OCR, including its workings, use cases, benefits, and integration methods.
 
 ## OCR Resources
 
